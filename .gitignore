@@ -1,0 +1,10 @@
+.env
+.envs/
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+faiss_index/
